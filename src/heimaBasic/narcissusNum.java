@@ -1,4 +1,4 @@
-package heima;
+package heimaBasic;
 
 public class narcissusNum {
     public static void main(String[] args) {

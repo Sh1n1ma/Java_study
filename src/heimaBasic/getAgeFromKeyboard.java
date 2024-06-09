@@ -1,4 +1,4 @@
-package heima;
+package heimaBasic;
 import java.util.Scanner;
 
 public class getAgeFromKeyboard
